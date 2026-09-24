@@ -1,0 +1,64 @@
+SAMPLED OUTPUT 1(ADDITION):
+Matrix Operations
+1. Matrix Addition
+2. Matrix Multiplication
+3. Matrix Transpose
+Enter your choice: 1
+
+Enter rows and columns of matrices: 2 2
+
+Enter Matrix A:
+Enter elements:
+1 2
+3 4
+
+Enter Matrix B:
+Enter elements:
+5 6
+7 8
+
+Result of Matrix Addition:
+6   8
+10  12
+
+
+SAMPLED OUTPUT 2(MULTIPLICATION):
+Matrix Operations
+1. Matrix Addition
+2. Matrix Multiplication
+3. Matrix Transpose
+Enter your choice: 2
+
+Enter rows and columns of Matrix A: 2 2
+Enter Matrix A:
+1 2
+3 4
+
+Enter rows and columns of Matrix B: 2 2
+Enter Matrix B:
+5 6
+7 8
+
+Result of Matrix Multiplication:
+19  22
+43  50
+
+
+
+SAMPLED OUTPUT 3(TRANSPOSE):
+Matrix Operations
+1. Matrix Addition
+2. Matrix Multiplication
+3. Matrix Transpose
+Enter your choice: 3
+
+Enter rows and columns of Matrix: 2 3
+
+Enter Matrix:
+1 2 3
+4 5 6
+
+Transpose of Matrix:
+1   4
+2   5
+3   6
